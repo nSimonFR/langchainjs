@@ -32,7 +32,7 @@
     "@zilliz/milvus2-sdk-node": "^2.2.0",
     "axios": "^0.26.0",
     "chromadb": "^1.4.0",
-    "graphql": "^16.6.0",
+    "graphql": "^16.8.1",
     "js-yaml": "^4.1.0",
     "langchain": "workspace:*",
     "ml-distance": "^4.0.0",
